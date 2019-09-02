@@ -1,4 +1,3 @@
-
 #Ricardo Pineda
 
 import sys        # command line arguments
